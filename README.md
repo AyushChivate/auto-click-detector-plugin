@@ -5,6 +5,8 @@ A plugin for Minecraft 1.8.8 that detects and alerts the server owner if a playe
 ## Built With
 
 * Java
+* Maven
+* Spigot
 
 ## Authors
 
