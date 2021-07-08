@@ -1,0 +1,13 @@
+name: AutoClickDetector
+version: ${project.version}
+main: io.github.ayushchivate.autoclickdetector.AutoClickDetectorPlugin
+api-version: 1.13
+
+commands:
+  autoclickdetector:
+    description: allows the user to access commands in this plugin
+    aliases:
+      - acd
+permissions:
+  autoclickerdetector.reload:
+    default: op
